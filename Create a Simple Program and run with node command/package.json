@@ -1,0 +1,12 @@
+{
+  "name": "create-a-simple-program-and-run-with-node-command",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

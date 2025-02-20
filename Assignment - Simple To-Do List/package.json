@@ -1,0 +1,17 @@
+{
+  "name": "assignment---simple-to-do-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "To_D0_List.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node To_D0_List.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^12.4.2"
+  }
+}
